@@ -1,6 +1,6 @@
 # :boom: Daily Challenge Hub - automated tests of the web application [Playwright] :boom:
 
-I created simple automated tests for the Daily Challenge Hub website using Playwright, a tool created for this purpose. 
+I created simple automated tests for the Daily Challenge Hub website using Playwright. I built this website specifically for these tests.
 
 The website includes:
 - [Home Page](#home_page)

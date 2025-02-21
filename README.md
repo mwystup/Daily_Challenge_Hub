@@ -4,9 +4,9 @@ I created simple automated tests for the Daily Challenge Hub website using Playw
 
 The website includes:
 - [Home Page](#home_page)
-- [Fitness Challenge page](#fitness_challenge_page)
-- [Mindfulness Challenge page](#mindfulness_challenge_page)
-- [Reading Challenge page](#reading_challenge_page)
+- [Fitness Challenge Page](#fitness_challenge_page)
+- [Mindfulness Challenge Page](#mindfulness_challenge_page)
+- [Reading Challenge Page](#reading_challenge_page)
 
 ✔️ [all screenshots on Google Drive](https://drive.google.com/drive/folders/1sF15h14FHi5rGmTyuoLfKhBrkHLqovJh?usp=sharing)
 
@@ -27,7 +27,7 @@ I checked whether the tests were correctly written by, for example, changing the
 
 ## :sparkles: Screenshots:
 
-### <a id="home_page"> ✔ Homepage </a> [[🔼 scroll up 🔼](#top)]
+### <a id="home_page"> ✔ Home Page </a> [[🔼 scroll up 🔼](#top)]
 This is the home page of the Daily Challenge Hub, created for these tests. The page is simple, with a few elements.
 ![Home Page](https://github.com/mwystup/Daily_Challenge_Hub/blob/images/home_page.png)
 
